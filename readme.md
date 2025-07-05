@@ -39,6 +39,10 @@ Data has been saved to 'output.csv'.
 
 ```
 
+## Sample Output (Graphic)
+![output screenshot Graph Traversal with Priority Nodes & Animated Visualization
+]()
+
 ## 🔧 How It Works
 
 1. Graph Creation: create_random_graph() builds a network using networkx.
