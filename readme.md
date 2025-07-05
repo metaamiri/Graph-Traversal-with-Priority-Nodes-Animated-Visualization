@@ -72,3 +72,6 @@ Data has been saved to 'output.csv'.
 - Greedy Heuristic: Always chooses the closest unvisited priority/regular node
 
 - Graph Layout: spring_layout for aesthetic visualization
+
+## Usage
+Run *main.py*
