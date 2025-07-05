@@ -41,7 +41,7 @@ Data has been saved to 'output.csv'.
 
 ## Sample Output (Graphic)
 ![output screenshot Graph Traversal with Priority Nodes & Animated Visualization
-]()
+](https://github.com/metaamiri/Graph-Traversal-with-Priority-Nodes-Animated-Visualization/blob/main/output%20screenshot/output.png)
 
 ## 🔧 How It Works
 
